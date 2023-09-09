@@ -22,7 +22,8 @@ public class CodeMqInitMain {
     public static void doInitCodeMq() {
         try {
             ConnectionFactory factory = new ConnectionFactory();
-            factory.setHost("xxxxx");
+            // todo 配服务MQ信息
+            factory.setHost("xxxxxxx");
             factory.setPassword("xxxx");
             factory.setUsername("xxxx");
             Connection connection = factory.newConnection();

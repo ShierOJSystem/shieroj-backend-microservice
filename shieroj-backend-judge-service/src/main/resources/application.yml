@@ -28,7 +28,7 @@ spring:
     timeout: 5000
     password: 123456
     connect-timeout: 100000
-  # rabbitmq 信息
+  # todo rabbitmq 信息
   rabbitmq:
     host: xxxx
     password: xxxx

@@ -49,7 +49,7 @@ server:
 # 开启knife4j接口文档
 knife4j:
   enable: true
-# 阿里云对象存储
+# todo 阿里云对象存储
 aliyun:
   oss:
     file:
